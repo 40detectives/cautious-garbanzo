@@ -4,5 +4,7 @@
 *.jpg
 *.jpeg
 *.png
+*.part
+*.ytdl
 .DS_Store
 .plexignore
