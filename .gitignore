@@ -1,10 +1,12 @@
 *.mp4
+*.m4a
 *.mp3
 *.mkv
 *.jpg
 *.jpeg
 *.png
 *.part
+*.meta
 *.ytdl
 .DS_Store
 .plexignore
